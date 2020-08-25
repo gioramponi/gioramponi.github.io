@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stefano Ceri on Giorgia Ramponi</title>
+    <link>/author/stefano-ceri/</link>
+    <description>Recent content in Stefano Ceri on Giorgia Ramponi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/author/stefano-ceri/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assigning users to domains of interest based on content and network similarity with champion instances</title>
+      <link>/publication/content/publication/gasparini-2019-assigning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/content/publication/gasparini-2019-assigning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content-based characterization of online social communities</title>
+      <link>/publication/content/publication/ramponi-2019-content/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/content/publication/ramponi-2019-content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News sharing user behaviour on twitter: A comprehensive data collection of news articles and social interactions</title>
+      <link>/publication/content/publication/brena-2019-news/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/content/publication/brena-2019-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vocabulary-based community detection and characterization</title>
+      <link>/publication/content/publication/ramponi-2019-vocabulary/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/content/publication/ramponi-2019-vocabulary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Content-based Classification of Political Inclinations of Twitter Users</title>
+      <link>/publication/content/publication/di-2018-content/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/content/publication/di-2018-content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iterative knowledge extraction from social networks</title>
+      <link>/publication/content/publication/brambilla-2018-iterative/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/content/publication/brambilla-2018-iterative/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

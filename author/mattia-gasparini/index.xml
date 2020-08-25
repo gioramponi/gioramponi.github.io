@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mattia Gasparini on Giorgia Ramponi</title>
+    <link>/author/mattia-gasparini/</link>
+    <description>Recent content in Mattia Gasparini on Giorgia Ramponi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/author/mattia-gasparini/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assigning users to domains of interest based on content and network similarity with champion instances</title>
+      <link>/publication/content/publication/gasparini-2019-assigning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/content/publication/gasparini-2019-assigning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
