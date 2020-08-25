@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mattia Gasparini on Giorgia Ramponi</title>
+    <title>Mattia Gasparini | Giorgia Ramponi</title>
     <link>/author/mattia-gasparini/</link>
-    <description>Recent content in Mattia Gasparini on Giorgia Ramponi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/author/mattia-gasparini/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/author/mattia-gasparini/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mattia Gasparini</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Mattia Gasparini</title>
+      <link>/author/mattia-gasparini/</link>
+    </image>
     
     <item>
       <title>Assigning users to domains of interest based on content and network similarity with champion instances</title>
       <link>/publication/content/publication/gasparini-2019-assigning/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/content/publication/gasparini-2019-assigning/</guid>
       <description></description>
     </item>

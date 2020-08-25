@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Giovanni Brena on Giorgia Ramponi</title>
+    <title>Giovanni Brena | Giorgia Ramponi</title>
     <link>/author/giovanni-brena/</link>
-    <description>Recent content in Giovanni Brena on Giorgia Ramponi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/author/giovanni-brena/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/author/giovanni-brena/index.xml" rel="self" type="application/rss+xml" />
+    <description>Giovanni Brena</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Giovanni Brena</title>
+      <link>/author/giovanni-brena/</link>
+    </image>
     
     <item>
       <title>News sharing user behaviour on twitter: A comprehensive data collection of news articles and social interactions</title>
       <link>/publication/content/publication/brena-2019-news/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>/publication/content/publication/brena-2019-news/</guid>
       <description></description>
     </item>

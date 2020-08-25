@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Marcello Restelli on Giorgia Ramponi</title>
+    <title>Marcello Restelli | Giorgia Ramponi</title>
     <link>/author/marcello-restelli/</link>
-    <description>Recent content in Marcello Restelli on Giorgia Ramponi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/author/marcello-restelli/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/author/marcello-restelli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marcello Restelli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Marcello Restelli</title>
+      <link>/author/marcello-restelli/</link>
+    </image>
     
     <item>
       <title>Truly Batch Model-Free Inverse Reinforcement Learning about Multiple Intentions</title>
       <link>/publication/content/publication/ramponi-2020-truly/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>/publication/content/publication/ramponi-2020-truly/</guid>
       <description></description>
     </item>
